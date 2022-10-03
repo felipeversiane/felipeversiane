@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Felipe Versiane</h1>
-<h3 align="center">I'm a computer science student at IFG Anápolis.</h3>
+<h3 align="center">I'm a Student in Bachelor of Computer Science.</h3>
+<p align="center">
+🔭 Iam currently learning C, Java and Python
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
