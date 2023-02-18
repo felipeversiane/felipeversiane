@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Versiane</h1>
 <h3 align="center">I'm a Student in Bachelor of Computer Science.</h3>
 <p align="center">
-🔭 Iam currently learning C, Java and Python
+🔭 Iam currently learning ReactJS and TypeScript
 </p>
 <p align="center">
 📫 Reach me through my email: felipeversiane09@gmail.com
