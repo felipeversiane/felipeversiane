@@ -14,7 +14,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=felipeversiane&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="felipeversiane" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipeversiane&theme=dark&show_icons=true&locale=en" alt="felipeversiane" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeversiane&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="felipeversiane" /></p>
 
 
 
