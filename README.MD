@@ -12,12 +12,6 @@
 <a href="https://www.linkedin.com/in/felipe-fernandes-93809a235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="7384" height="30" width="40" /></a>
 </p>
 
-<div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=felipeversiane&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" align="left" style="width: 48%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeversiane&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" align="left" style="width: 48%;">
-</div>
-<br>
-
 
 
 
