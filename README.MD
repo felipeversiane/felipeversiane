@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Felipe Versiane</h1>
 <h3 align="center">I'm a Student in Bachelor of Computer Science.</h3>
 <p align="center">
-🔭 Iam currently learning Django, Nextjs and TypeScript
+🔭 Iam currently learning Golang, Django, Nextjs and TypeScript
 </p>
 <p align="center">
 📫 Reach me through my email: felipeversiane09@gmail.com
