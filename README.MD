@@ -29,6 +29,6 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <div>
-  <img height="40" src="https://skillicons.dev/icons?i=py,django,go,mongodb,redis,postgresql,nginx,aws,gdocker,gcp,githubactions,git,github"/>
+  <img height="40" src="https://skillicons.dev/icons?i=py,django,go,mongodb,redis,postgresql,nginx,aws,docker,gcp,githubactions,git,github"/>
 <div/>
 
