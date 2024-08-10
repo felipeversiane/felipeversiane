@@ -27,7 +27,7 @@
 
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <div>
   <img height="40" src="https://skillicons.dev/icons?i=py,django,go,mongodb,redis,postgresql,nginx,aws,gdocker,gcp,githubactions,git,github"/>
 <div/>
