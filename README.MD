@@ -12,15 +12,17 @@
 <a href="https://www.linkedin.com/in/felipeversiane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="7384" height="30" width="40" /></a>
 </p>
 
+<br/>
+------
 <div align="center">
   <a href="https://github.com/felipeversiane">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeversiane&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="felipeversiane"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeversiane&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="felipeversiane"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeversiane&show_icons=true&locale=en&layout=compact&theme=dark" alt="felipeversiane"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeversiane&show_icons=true&locale=en&layout=compact&theme=dark" alt="felipeversiane"/>
   </a>
 </div>
 <p align="center">
   <a href="https://github.com/felipeversiane">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipeversiane&&theme=tokyonight" alt="felipeversiane" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipeversiane&&theme=dark" alt="felipeversiane" />
   </a>
 </p>
 
