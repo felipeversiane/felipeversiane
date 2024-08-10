@@ -32,5 +32,5 @@
 <hr>
 
 <div align="center">
-  <img height="37" src="https://skillicons.dev/icons?i=py,django,go,mongodb,redis,postgresql,nginx,aws,docker,gcp,githubactions,git,github"/>
+  <img height="43" src="https://skillicons.dev/icons?i=py,django,go,mongodb,redis,postgresql,nginx,aws,docker,gcp,githubactions,git,github"/>
 <div/>
