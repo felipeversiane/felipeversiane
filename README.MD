@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 2.5em;">Hello 🌎, I'm Felipe Versiane</h1>
+<h1 align="center" style="font-size: 3em;">Hello 🌎, I'm Felipe Versiane</h1>
 
 <h3 align="center" style="font-size: 1.75em;">I'm a Student in Bachelor of Computer Science and Back-end Developer.</h3>
 
@@ -18,20 +18,18 @@
 
 <div align="center">
   <a href="https://github.com/felipeversiane">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeversiane&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="felipeversiane"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipeversiane&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="felipeversiane"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeversiane&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="felipeversiane"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=felipeversiane&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="felipeversiane"/>
   </a>
 </div>
 
 <p align="center">
   <a href="https://github.com/felipeversiane">
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipeversiane&&theme=tokyonight&hide_border=true&count_private=true" alt="felipeversiane" />
+    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipeversiane&&theme=tokyonight&hide_border=true&count_private=true" alt="felipeversiane" />
   </a>
 </p>
 
 <hr>
-
-<h3 align="center" style="font-size: 1.75em;">Languages and Tools:</h3>
 
 <div align="center">
   <img height="50" src="https://skillicons.dev/icons?i=py,django,go,mongodb,redis,postgresql,nginx,aws,docker,gcp,githubactions,git,github"/>
