@@ -15,12 +15,20 @@
 
 <div align="center">
   <a href="https://github.com/felipeversiane">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeversiane&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="felipeversiane"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeversiane&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="felipeversiane"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeversiane&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="felipeversiane"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=felipeversiane&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="felipeversiane"/>
   </a>
 </div>
 <p align="center">
   <a href="https://github.com/felipeversiane">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipeversiane&&theme=tokyonight&hide_border=true&count_private=true" alt="felipeversiane" />
+    <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipeversiane&&theme=tokyonight&hide_border=true&count_private=true" alt="felipeversiane" />
   </a>
 </p>
+
+<hr>
+
+<h3 align="left">Languages and Tools:</h3>
+<div>
+  <img height="40" src="https://skillicons.dev/icons?i=py,django,go,mongodb,redis,postgresql,nginx,aws,gdocker,gcp,githubactions,git,github"/>
+<div/>
+
