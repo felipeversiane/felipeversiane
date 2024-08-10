@@ -1,6 +1,6 @@
-<h1 align="center" style="font-size: 3em;">Hello 🌎, I'm Felipe Versiane</h1>
+<h1 align="center" style="font-size: 2.3em;">Hello 🌎, I'm Felipe Versiane</h1>
 
-<h3 align="center" style="font-size: 1.75em;">I'm a Student in Bachelor of Computer Science and Back-end Developer.</h3>
+<h3 align="center" style="font-size: 1.7em;">I'm a Student in Bachelor of Computer Science and Back-end Developer.</h3>
 
 <p align="center" style="font-size: 1.25em;">
   📫 Reach me through my email: felipeversiane09@gmail.com
